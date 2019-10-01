@@ -16,7 +16,9 @@ RUBYOPT=-W0 rake default sample_io/input.txt
 
 This will return 
 
-```CHILD_ADDITION_FAILED
+```
+CHILD_ADDITION_FAILED
 PERSON_NOT_FOUND
-PERSON_NOT_FOUND```
+PERSON_NOT_FOUND
+```
 
